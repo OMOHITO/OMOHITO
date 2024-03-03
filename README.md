@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NodeJs, MongoDB, AWS
 - 🧠 I know HTML, CSS and Basic JS
 - 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for internship
 - 📫 How to reach me Mohit_Kaushik19@proton.me
 - 😄 Pronouns: ME!
 - ⚡ Fun fact: I want to join the ARMY
